@@ -7,7 +7,7 @@ A **simple and responsive QR Code Generator** built using **HTML**, **CSS**, and
 
 ## API Used
 I used the **Free QR Code Generator API** api.qrserver.com to generate QR codes:  
-QR Code API:- (https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example)
+QR Code API:- https://goqr.me/api/
 
 **Example API Request**:  
 https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=HelloWorld
