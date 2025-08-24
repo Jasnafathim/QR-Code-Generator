@@ -3,11 +3,11 @@
 A **simple and responsive QR Code Generator** built using **HTML**, **CSS**, and **JavaScript**. This app uses the **Free QR Code Generator API** to create a **QR code** for any **text** or **URL** entered by the user. You will get the **QR code in image format** instantly!
 
 ## Live Demo
-**[Click here to view the project](https://USERNAME.github.io/qr-code-generator/)**  
+**[Click here to view the project](https://jasnafathim.github.io/QR-Code-Generator/)**  
 
 ## API Used
-I used the **Free QR Code Generator API** to generate QR codes:  
-[QR code generator web API at api.qrserver.com](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example)
+I used the **Free QR Code Generator API** api.qrserver.com to generate QR codes:  
+QR Code API:- (https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example)
 
 **Example API Request**:  
 https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=HelloWorld
