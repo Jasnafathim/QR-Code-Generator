@@ -1,15 +1,13 @@
 # **QR Code Generator Website**
 
-A **simple and responsive QR Code Generator** built using **HTML**, **CSS**, and **JavaScript**.  
-This app uses the **Free QR Code Generator API** to create a **QR code** for any **text** or **URL** entered by the user.  
-You will get the **QR code in image format** instantly!
+A **simple and responsive QR Code Generator** built using **HTML**, **CSS**, and **JavaScript**. This app uses the **Free QR Code Generator API** to create a **QR code** for any **text** or **URL** entered by the user. You will get the **QR code in image format** instantly!
 
 ## Live Demo
 **[Click here to view the project](https://USERNAME.github.io/qr-code-generator/)**  
 
 ## API Used
 I used the **Free QR Code Generator API** to generate QR codes:  
-[https://api.qrserver.com/v1/create-qr-code/](https://api.qrserver.com/v1/create-qr-code/)
+[QR code generator web API at api.qrserver.com](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Example)
 
 **Example API Request**:  
 https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=HelloWorld
@@ -25,13 +23,13 @@ You get a **QR Code image** back:
 - **Free QR Code Generator API**  
 
 ## Features
-Generate **QR Code** from any **text** or **link**  
-Uses **Free QR Code API** for instant QR generation  
-Get QR **in image format**  
-Responsive and **easy-to-use** design
+- Generate **QR Code** from any **text** or **link**  
+- Uses **Free QR Code API** for instant QR generation  
+- Get QR **in image format**  
+- Responsive and **easy-to-use** design
 
 ## Screenshots
-![QR Code Generator Screenshot](QR-Code.png)
+![QR Code Generator Screenshot](Qr-Code.png)
 
 ## Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jasnafathim/)
